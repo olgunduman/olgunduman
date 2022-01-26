@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**olgunduman/olgunduman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h3 align="center">Yazılım Geliştirici</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olgunduman&label=Profile%20views&color=0e75b6&style=flat" alt="olgunduman" /> </p>
@@ -26,4 +19,6 @@ Here are some ideas to get you started:
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=olgunduman&show_icons=true&locale=en" alt="olgunduman" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olgunduman&" alt="olgunduman" /></p>
+
+
 
