@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm olgun duman</h1>
-<h3 align="center">Software Developer</h3>
 
 
+## Hello 👋 welcome my github profile :) 
+
+I receive trainings related to these areas such as Spring framework, Rdsm, Microservis, NoSql and try to develop myself professionally in this field.My career goal: I want to become a qualified software developer in the industry in the field of Java. I continue to improve myself for this.
+
+- 🔭 I’m currently working on Java Software Developer.
+- 👋 I'm currently working on ```Java``` languages
+- 🌱 I’m currently learning Backend technology with Java and java's frameworks.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/olgundumann/) or [Mail](mailto:olgunduman49@gmail.com?subject=Hello)
+
+[![Github Badge](https://i.ibb.co/3zz3vPF/Git-Hub-Mark.png)](https://github.com/olgunduman)
+[![LinkedIn Badge](https://i.ibb.co/DVdTPH9/super-tiny-icons-linkedin-1324450747503589428.png)](https://www.linkedin.com/in/olgundumann/)
+[![Mail Badge](https://i.ibb.co/k1NMjhh/281769.png)](mailto:olgunduman49@gmail.com?subject=Hello)
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/olgundmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olgundmn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/olgundumann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olgun duman" height="30" width="40" /></a>
-<a href="https://instagram.com/olgunduman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="olgunduman" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=olgunduman&show_icons=true&theme=radical)
 
 
 
