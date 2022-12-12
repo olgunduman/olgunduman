@@ -13,4 +13,3 @@ I receive trainings related to these areas such as Spring framework, Rdsm, Micro
 [![Mail Badge](https://i.ibb.co/k1NMjhh/281769.png)](mailto:olgunduman49@gmail.com?subject=Hello)
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=olgunduman&show_icons=true&theme=radical)
